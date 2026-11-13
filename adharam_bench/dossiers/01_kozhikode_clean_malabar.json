@@ -1,0 +1,140 @@
+{
+  "dossier_id": "BENCH_01_KOZHIKODE_CLEAN",
+  "bank_name": "State Bank of India",
+  "branch_name": "Calicut Main Branch (SARB)",
+  "applicant_name": "Anwar Sadath",
+  "facility_type": "Housing Loan — Equitable Mortgage (Sec. 58(f) TP Act)",
+  "deeds": [
+    {
+      "doc_id": "DEED_1994_614_CHEVAYUR",
+      "doc_class": "SALE_DEED",
+      "doc_type_ml": "തീറാധാരം",
+      "doc_type_en": "Absolute Sale Deed (Theeradharam)",
+      "registration_meta": {
+        "doc_number": {"value": "614/1994", "page": 1, "confidence": 0.96},
+        "sro_name": "Chevayur SRO",
+        "execution_date": "1994-03-12",
+        "consideration_inr": 250000
+      },
+      "executants": [
+        {"name_en": "Kunhikrishnan Nair", "relation_type": "S/o", "relative_name_en": "Raman Nair", "age": 55, "religion_personal_law": "HINDU"}
+      ],
+      "claimants": [
+        {"name_en": "Sankaran Nair", "relation_type": "S/o", "relative_name_en": "Madhavan Nair", "age": 48, "religion_personal_law": "HINDU"}
+      ],
+      "prior_deeds_cited": [],
+      "property_schedule": {
+        "revenue_region": "MALABAR",
+        "district": "Kozhikode",
+        "taluk": "Kozhikode",
+        "village": "Chevayur",
+        "amsom_desom_or_kara": "Chevayur Amsom, Mayanad Desom",
+        "old_survey_no": "42/3",
+        "resurvey_block": "14",
+        "resurvey_no": "118/4",
+        "land_nature_btr": "Purayidam",
+        "extent_stated": {"ares": 12.14}
+      }
+    },
+    {
+      "doc_id": "DEED_2004_1108_CHEVAYUR",
+      "doc_class": "PARTITION_DEED",
+      "doc_type_ml": "ഭാഗപത്രം",
+      "doc_type_en": "Partition Deed (Bhagapathram)",
+      "registration_meta": {
+        "doc_number": {"value": "1108/2004", "page": 1, "confidence": 0.97},
+        "sro_name": "Chevayur SRO",
+        "execution_date": "2004-06-05"
+      },
+      "executants": [
+        {"name_en": "Janaki Amma", "relation_type": "W/o", "relative_name_en": "Sankaran Nair", "age": 68, "religion_personal_law": "HINDU"},
+        {"name_en": "K. Krishnan", "relation_type": "S/o", "relative_name_en": "Sankaran Nair", "age": 45, "religion_personal_law": "HINDU"}
+      ],
+      "claimants": [
+        {"name_en": "K. Raghavan Nair", "relation_type": "S/o", "relative_name_en": "Sankaran Nair", "age": 49, "religion_personal_law": "HINDU"}
+      ],
+      "prior_deeds_cited": [
+        {"doc_number": "614/1994", "sro_name": "Chevayur SRO", "deed_type": "Absolute Sale Deed", "extent_acquired_ares": 12.14}
+      ],
+      "property_schedule": {
+        "revenue_region": "MALABAR",
+        "district": "Kozhikode",
+        "taluk": "Kozhikode",
+        "village": "Chevayur",
+        "amsom_desom_or_kara": "Chevayur Amsom, Mayanad Desom",
+        "old_survey_no": "42/3",
+        "resurvey_block": "14",
+        "resurvey_no": "118/4A",
+        "land_nature_btr": "Purayidam",
+        "extent_stated": {"ares": 6.07}
+      }
+    },
+    {
+      "doc_id": "DEED_2019_2145_CHEVAYUR",
+      "doc_class": "SALE_DEED",
+      "doc_type_ml": "തീറാധാരം",
+      "doc_type_en": "Absolute Sale Deed (Theeradharam)",
+      "registration_meta": {
+        "doc_number": {"value": "2145/2019", "page": 1, "confidence": 0.99},
+        "sro_name": "Chevayur SRO",
+        "execution_date": "2019-08-14",
+        "consideration_inr": 4500000
+      },
+      "executants": [
+        {"name_en": "K. Raghavan Nair", "relation_type": "S/o", "relative_name_en": "Sankaran Nair", "age": 64, "religion_personal_law": "HINDU"}
+      ],
+      "claimants": [
+        {"name_en": "Anwar Sadath", "relation_type": "S/o", "relative_name_en": "Moideen Koya", "age": 38, "religion_personal_law": "MUSLIM"}
+      ],
+      "prior_deeds_cited": [
+        {"doc_number": "1108/2004", "sro_name": "Chevayur SRO", "deed_type": "Partition Deed", "schedule_allotted": "Schedule B", "extent_acquired_ares": 6.07}
+      ],
+      "property_schedule": {
+        "revenue_region": "MALABAR",
+        "district": "Kozhikode",
+        "taluk": "Kozhikode",
+        "village": "Chevayur",
+        "amsom_desom_or_kara": "Chevayur Amsom, Mayanad Desom",
+        "old_survey_no": "42/3",
+        "resurvey_block": "14",
+        "resurvey_no": "118/4A1",
+        "thandapper_no": "8842",
+        "land_nature_btr": "Purayidam",
+        "extent_stated": {"ares": 4.05},
+        "boundaries_en": {
+          "east": "Corporation Tarred Road (5m)",
+          "south": "Property of Krishnan",
+          "west": "Remaining property in Schedule B",
+          "north": "Private 3.6m motorable pathway"
+        },
+        "sarfaesi_motorable_access": {"has_vehicular_access": true, "pathway_width_meters": 5.0, "access_type": "DIRECT_PUBLIC_ROAD"}
+      }
+    }
+  ],
+  "ec_record": {
+    "ec_number": "C-88412/2026",
+    "sro_name": "Chevayur SRO",
+    "period_from": "1994-01-01",
+    "period_to": "2026-11-10",
+    "entries": [
+      {"doc_number": "614/1994", "sro_name": "Chevayur SRO", "execution_date": "1994-03-12", "nature_of_deed": "Sale Deed", "executant_name": "Kunhikrishnan Nair", "claimant_name": "Sankaran Nair", "survey_no": "42/3"},
+      {"doc_number": "1108/2004", "sro_name": "Chevayur SRO", "execution_date": "2004-06-05", "nature_of_deed": "Partition Deed", "executant_name": "Janaki Amma", "claimant_name": "K. Raghavan Nair", "survey_no": "42/3"},
+      {"doc_number": "2145/2019", "sro_name": "Chevayur SRO", "execution_date": "2019-08-14", "nature_of_deed": "Sale Deed", "executant_name": "K. Raghavan Nair", "claimant_name": "Anwar Sadath", "survey_no": "118/4A1"}
+    ]
+  },
+  "btr_record": {
+    "receipt_number": "KL11010409821/2026",
+    "receipt_date": "2026-11-02",
+    "village": "Chevayur",
+    "thandapper_no": "8842",
+    "owner_name_en": "Anwar Sadath",
+    "resurvey_block": "14",
+    "resurvey_no": "118/4A1",
+    "old_survey_no": "42/3",
+    "land_nature_btr": "Purayidam",
+    "extent_ares": 4.05,
+    "possession_cert_no": "884102/2026",
+    "possession_cert_date": "2026-11-04",
+    "building_tax_receipt_no": "KMC-19-1420A"
+  }
+}

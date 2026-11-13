@@ -1,0 +1,64 @@
+{
+  "dossier_id": "BENCH_03_THRISSUR_DEFECTS",
+  "bank_name": "Kerala Bank",
+  "branch_name": "Thrissur Main",
+  "applicant_name": "Suresh Babu",
+  "deeds": [
+    {
+      "doc_id": "DEED_2012_410_THRISSUR",
+      "doc_class": "SETTLEMENT_DEED",
+      "doc_type_ml": "ധനനിശ്ചയാധാരം",
+      "doc_type_en": "Settlement Deed (Dhananischaya Adharam)",
+      "registration_meta": {
+        "doc_number": {"value": "410/2012", "page": 1, "confidence": 0.95},
+        "sro_name": "Thrissur SRO",
+        "execution_date": "2012-07-11"
+      },
+      "executants": [
+        {"name_en": "Narayani Amma", "relation_type": "W/o", "relative_name_en": "Gopalan", "age": 67, "religion_personal_law": "HINDU"}
+      ],
+      "claimants": [
+        {"name_en": "Suresh Babu", "relation_type": "S/o", "relative_name_en": "Gopalan", "age": 35, "religion_personal_law": "HINDU"}
+      ],
+      "prior_deeds_cited": [],
+      "statutory_flags_extracted": {
+        "life_interest_reserved": true,
+        "life_interest_holder_name": "Narayani Amma",
+        "life_interest_released_or_deceased": false,
+        "data_bank_notified_nilam": true,
+        "has_form5_exclusion_order": false
+      },
+      "property_schedule": {
+        "revenue_region": "TRAVANCORE_COCHIN",
+        "district": "Thrissur",
+        "taluk": "Thrissur",
+        "village": "Ayyanthole",
+        "old_survey_no": "104/2",
+        "resurvey_no": "55/8",
+        "land_nature_btr": "Nilam",
+        "extent_stated": {"ares": 4.05},
+        "sarfaesi_motorable_access": {"has_vehicular_access": true, "pathway_width_meters": 3.5}
+      }
+    }
+  ],
+  "ec_record": {
+    "ec_number": "EC-3021/2026",
+    "sro_name": "Thrissur SRO",
+    "period_from": "2010-01-01",
+    "period_to": "2026-10-30",
+    "entries": [
+      {"doc_number": "410/2012", "sro_name": "Thrissur SRO", "execution_date": "2012-07-11", "nature_of_deed": "Settlement Deed", "executant_name": "Narayani Amma", "claimant_name": "Suresh Babu", "survey_no": "55/8"},
+      {"doc_number": "889/2018", "sro_name": "Thrissur SRO", "execution_date": "2018-05-19", "nature_of_deed": "Gahan Mortgage (Co-op Bank)", "executant_name": "Suresh Babu", "claimant_name": "Ayyanthole SCB", "survey_no": "55/8", "is_encumbrance_or_lien": true, "released_by_doc_number": null}
+    ]
+  },
+  "btr_record": {
+    "receipt_number": "KL080102211/2026",
+    "receipt_date": "2026-10-15",
+    "village": "Ayyanthole",
+    "thandapper_no": "2104",
+    "owner_name_en": "Suresh Babu",
+    "resurvey_no": "55/8",
+    "land_nature_btr": "Nilam",
+    "extent_ares": 4.05
+  }
+}

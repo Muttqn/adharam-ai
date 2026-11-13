@@ -1,0 +1,22 @@
+{
+  "BENCH_01_KOZHIKODE_CLEAN": {
+    "overall_marketable_title": true,
+    "chain_complete": true,
+    "expected_flagged_rules": []
+  },
+  "BENCH_02_ERNAKULAM_CLEAN": {
+    "overall_marketable_title": true,
+    "chain_complete": true,
+    "expected_flagged_rules": []
+  },
+  "BENCH_03_THRISSUR_DEFECTS": {
+    "overall_marketable_title": false,
+    "chain_complete": true,
+    "expected_flagged_rules": ["R-01", "R-02", "R-03"]
+  },
+  "BENCH_04_MALAPPURAM_DEFECTS": {
+    "overall_marketable_title": false,
+    "chain_complete": false,
+    "expected_flagged_rules": ["R-08", "R-10", "R-11"]
+  }
+}

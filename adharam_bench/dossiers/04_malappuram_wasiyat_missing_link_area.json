@@ -1,0 +1,62 @@
+{
+  "dossier_id": "BENCH_04_MALAPPURAM_DEFECTS",
+  "bank_name": "Canara Bank",
+  "branch_name": "Manjeri Branch",
+  "applicant_name": "Muhammedali K.",
+  "deeds": [
+    {
+      "doc_id": "DEED_2018_712_MANJERI",
+      "doc_class": "WILL_TESTAMENT",
+      "doc_type_ml": "വസിയ്യത്ത്",
+      "doc_type_en": "Testamentary Will (Wasiyat)",
+      "registration_meta": {
+        "doc_number": {"value": "712/2018", "page": 1, "confidence": 0.94},
+        "sro_name": "Manjeri SRO",
+        "execution_date": "2018-02-15"
+      },
+      "executants": [
+        {"name_en": "Koya Haji", "relation_type": "S/o", "relative_name_en": "Bava", "age": 72, "religion_personal_law": "MUSLIM"}
+      ],
+      "claimants": [
+        {"name_en": "Muhammedali K.", "relation_type": "S/o", "relative_name_en": "Koya Haji", "age": 40, "religion_personal_law": "MUSLIM"}
+      ],
+      "prior_deeds_cited": [
+        {"doc_number": "102/1999", "sro_name": "Manjeri SRO", "deed_type": "Sale Deed", "extent_acquired_ares": 8.0}
+      ],
+      "statutory_flags_extracted": {
+        "wasiyat_exceeds_one_third": true,
+        "wasiyat_to_heir_without_consent": true
+      },
+      "property_schedule": {
+        "revenue_region": "MALABAR",
+        "district": "Malappuram",
+        "taluk": "Eranad",
+        "village": "Manjeri",
+        "old_survey_no": "88/1",
+        "resurvey_no": "144/3",
+        "land_nature_btr": "Purayidam",
+        "extent_stated": {"ares": 8.0},
+        "sarfaesi_motorable_access": {"has_vehicular_access": false, "pathway_width_meters": 0.9, "access_type": "NARROW_FOOTPATH"}
+      }
+    }
+  ],
+  "ec_record": {
+    "ec_number": "EC-5120/2026",
+    "sro_name": "Manjeri SRO",
+    "period_from": "2010-01-01",
+    "period_to": "2026-10-01",
+    "entries": [
+      {"doc_number": "712/2018", "sro_name": "Manjeri SRO", "execution_date": "2018-02-15", "nature_of_deed": "Will", "executant_name": "Koya Haji", "claimant_name": "Muhammedali K.", "survey_no": "144/3"}
+    ]
+  },
+  "btr_record": {
+    "receipt_number": "KL100105511/2026",
+    "receipt_date": "2026-10-10",
+    "village": "Manjeri",
+    "thandapper_no": "5021",
+    "owner_name_en": "Muhammedali K.",
+    "resurvey_no": "144/3",
+    "land_nature_btr": "Purayidam",
+    "extent_ares": 6.50
+  }
+}

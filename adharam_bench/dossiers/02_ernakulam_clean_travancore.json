@@ -1,0 +1,92 @@
+{
+  "dossier_id": "BENCH_02_ERNAKULAM_CLEAN",
+  "bank_name": "Federal Bank",
+  "branch_name": "Edappally Branch",
+  "applicant_name": "George Mathew",
+  "deeds": [
+    {
+      "doc_id": "DEED_2005_3210_EDAPPALLY",
+      "doc_class": "SALE_DEED",
+      "doc_type_ml": "തീറാധാരം",
+      "doc_type_en": "Absolute Sale Deed",
+      "registration_meta": {
+        "doc_number": {"value": "3210/2005", "page": 1, "confidence": 0.98},
+        "sro_name": "Edappally SRO",
+        "execution_date": "2005-04-20"
+      },
+      "executants": [
+        {"name_en": "Varghese Paul", "relation_type": "S/o", "relative_name_en": "Paul", "age": 52, "religion_personal_law": "CHRISTIAN"}
+      ],
+      "claimants": [
+        {"name_en": "Mary Thomas", "relation_type": "W/o", "relative_name_en": "Thomas", "age": 41, "religion_personal_law": "CHRISTIAN"}
+      ],
+      "prior_deeds_cited": [],
+      "property_schedule": {
+        "revenue_region": "TRAVANCORE_COCHIN",
+        "district": "Ernakulam",
+        "taluk": "Kanayannur",
+        "village": "Edappally North",
+        "amsom_desom_or_kara": "Edappally North Kara",
+        "old_survey_no": "312/4",
+        "resurvey_block": "8",
+        "resurvey_no": "205/12",
+        "land_nature_btr": "Purayidam",
+        "extent_stated": {"ares": 5.26}
+      }
+    },
+    {
+      "doc_id": "DEED_2022_1984_EDAPPALLY",
+      "doc_class": "SALE_DEED",
+      "doc_type_ml": "തീറാധാരം",
+      "doc_type_en": "Absolute Sale Deed",
+      "registration_meta": {
+        "doc_number": {"value": "1984/2022", "page": 1, "confidence": 0.99},
+        "sro_name": "Edappally SRO",
+        "execution_date": "2022-09-10"
+      },
+      "executants": [
+        {"name_en": "Mary Thomas", "relation_type": "W/o", "relative_name_en": "Thomas", "age": 58, "religion_personal_law": "CHRISTIAN"}
+      ],
+      "claimants": [
+        {"name_en": "George Mathew", "relation_type": "S/o", "relative_name_en": "Mathew", "age": 36, "religion_personal_law": "CHRISTIAN"}
+      ],
+      "prior_deeds_cited": [
+        {"doc_number": "3210/2005", "sro_name": "Edappally SRO", "deed_type": "Absolute Sale Deed", "extent_acquired_ares": 5.26}
+      ],
+      "property_schedule": {
+        "revenue_region": "TRAVANCORE_COCHIN",
+        "district": "Ernakulam",
+        "taluk": "Kanayannur",
+        "village": "Edappally North",
+        "amsom_desom_or_kara": "Edappally North Kara",
+        "old_survey_no": "312/4A",
+        "resurvey_block": "8",
+        "resurvey_no": "205/12-1",
+        "land_nature_btr": "Purayidam",
+        "extent_stated": {"ares": 5.26},
+        "sarfaesi_motorable_access": {"has_vehicular_access": true, "pathway_width_meters": 4.0, "access_type": "MUNICIPAL_ROAD"}
+      }
+    }
+  ],
+  "ec_record": {
+    "ec_number": "EC-9912/2026",
+    "sro_name": "Edappally SRO",
+    "period_from": "2005-01-01",
+    "period_to": "2026-11-01",
+    "entries": [
+      {"doc_number": "3210/2005", "sro_name": "Edappally SRO", "execution_date": "2005-04-20", "nature_of_deed": "Sale Deed", "executant_name": "Varghese Paul", "claimant_name": "Mary Thomas", "survey_no": "312/4"},
+      {"doc_number": "1984/2022", "sro_name": "Edappally SRO", "execution_date": "2022-09-10", "nature_of_deed": "Sale Deed", "executant_name": "Mary Thomas", "claimant_name": "George Mathew", "survey_no": "205/12-1"}
+    ]
+  },
+  "btr_record": {
+    "receipt_number": "KL070201145/2026",
+    "receipt_date": "2026-10-25",
+    "village": "Edappally North",
+    "thandapper_no": "4410",
+    "owner_name_en": "Mathew George",
+    "resurvey_block": "8",
+    "resurvey_no": "205/12-1",
+    "land_nature_btr": "Purayidam",
+    "extent_ares": 5.20
+  }
+}
