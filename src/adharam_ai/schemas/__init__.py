@@ -1,0 +1,53 @@
+"""Pydantic v2 canonical data schemas for Kerala property dossiers and audit results."""
+
+from adharam_ai.schemas.deed_record import (
+    BTRRecord,
+    DeedClass,
+    DeedRecord,
+    DossierInput,
+    ECEntry,
+    ECRecord,
+    ExtentMeasurement,
+    Party,
+    PersonalLaw,
+    PriorDeedRef,
+    PropertySchedule,
+    ProvenanceField,
+    RegistrationMeta,
+    RevenueRegion,
+    SARFAESIAccess,
+    StatutoryFlagsExtracted,
+)
+from adharam_ai.schemas.risk_report import (
+    AreaAuditResult,
+    ChainVerificationResult,
+    ECVerificationResult,
+    RiskFinding,
+    RiskSeverity,
+    TitleAuditResult,
+)
+
+__all__ = [
+    "AreaAuditResult",
+    "BTRRecord",
+    "ChainVerificationResult",
+    "DeedClass",
+    "DeedRecord",
+    "DossierInput",
+    "ECEntry",
+    "ECRecord",
+    "ECVerificationResult",
+    "ExtentMeasurement",
+    "Party",
+    "PersonalLaw",
+    "PriorDeedRef",
+    "PropertySchedule",
+    "ProvenanceField",
+    "RegistrationMeta",
+    "RevenueRegion",
+    "RiskFinding",
+    "RiskSeverity",
+    "SARFAESIAccess",
+    "StatutoryFlagsExtracted",
+    "TitleAuditResult",
+]
