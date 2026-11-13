@@ -1,0 +1,27 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Bytecode & caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets & local env
+.env
+
+# Ephemeral client dossiers & generated reports (DPDP Act compliance)
+output_reports/
+temp_uploads/
+*.docx
+!examples/*.docx

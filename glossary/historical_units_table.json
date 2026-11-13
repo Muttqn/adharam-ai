@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "standard_conversions": {
+    "sq_meters_per_are": 100.0,
+    "sq_meters_per_hectare": 10000.0,
+    "sq_meters_per_acre": 4046.8564224,
+    "cents_per_acre": 100.0,
+    "cents_per_are": 2.471053814671653,
+    "sq_meters_per_cent": 40.468564224,
+    "sq_feet_per_cent": 435.6
+  },
+  "historical_kerala_units": {
+    "KOLE_6FT_SQ_METERS": 3.344509,
+    "KOLE_8FT_SQ_METERS": 5.945794,
+    "KUZHI_MALABAR_SQ_METERS": 13.378038,
+    "PERUKKU_SQ_METERS": 4.046856
+  },
+  "resurvey_variance_thresholds": {
+    "acceptable_rounding_pct": 2.5,
+    "rectification_deed_pct": 5.0
+  }
+}

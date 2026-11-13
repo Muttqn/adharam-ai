@@ -1,0 +1,112 @@
+{
+  "version": "1.0.0",
+  "jurisdiction": "State of Kerala, India",
+  "instruments": [
+    {
+      "term_ml": "തീറാധാരം / വിലയാധാരം",
+      "transliteration": "Theeradharam / Vilayadharam",
+      "doc_class": "SALE_DEED",
+      "standard_en": "Absolute Sale Deed",
+      "statute": "Transfer of Property Act, 1882 (Sec. 54)"
+    },
+    {
+      "term_ml": "ഭാഗഉടമ്പടി / ഭാഗപത്രം",
+      "transliteration": "Bhagaudambadi / Bhagapathram",
+      "doc_class": "PARTITION_DEED",
+      "standard_en": "Partition Deed",
+      "statute": "Indian Registration Act, 1908 (Sec. 17)"
+    },
+    {
+      "term_ml": "ധനനിശ്ചയാധാരം",
+      "transliteration": "Dhananischaya Adharam",
+      "doc_class": "SETTLEMENT_DEED",
+      "standard_en": "Settlement Deed",
+      "statute": "Senior Citizens Act, 2007 (Sec. 23); Kerala Stamp Act"
+    },
+    {
+      "term_ml": "ഇഷ്ടദാന ആധാരം",
+      "transliteration": "Ishtadanam",
+      "doc_class": "GIFT_DEED",
+      "standard_en": "Gift Deed",
+      "statute": "Transfer of Property Act, 1882 (Secs. 122, 126)"
+    },
+    {
+      "term_ml": "ഒഴിമുറി ആധാരം",
+      "transliteration": "Ozhimuri",
+      "doc_class": "RELEASE_DEED",
+      "standard_en": "Release / Relinquishment Deed",
+      "statute": "Kerala Stamp Act (Art. 48)"
+    },
+    {
+      "term_ml": "പരസ്പര കൈമാറ്റ ആധാരം",
+      "transliteration": "Paraspura Kaimatta Adharam",
+      "doc_class": "EXCHANGE_DEED",
+      "standard_en": "Exchange Deed",
+      "statute": "Transfer of Property Act, 1882 (Sec. 118)"
+    },
+    {
+      "term_ml": "മരണപത്രം / വസിയ്യത്ത്",
+      "transliteration": "Maranapathram / Wasiyat",
+      "doc_class": "WILL_TESTAMENT",
+      "standard_en": "Testamentary Will",
+      "statute": "Indian Succession Act, 1925; Muslim Personal Law (Shariat)"
+    },
+    {
+      "term_ml": "പട്ടയം / ക്രയസർട്ടിഫിക്കറ്റ്",
+      "transliteration": "Pattayam / Kraya Certificate",
+      "doc_class": "PATTAYAM_PURCHASE_CERT",
+      "standard_en": "Purchase Certificate / Land Assignment Patta",
+      "statute": "Kerala Land Reforms Act, 1963 (Sec. 72K); Kerala Land Assignment Rules, 1964"
+    },
+    {
+      "term_ml": "തിരുത്തൽ ആധാരം",
+      "transliteration": "Thettu Thiruthal Adharam",
+      "doc_class": "RECTIFICATION_DEED",
+      "standard_en": "Rectification Deed",
+      "statute": "Registration Act, 1908"
+    }
+  ],
+  "revenue_terms": {
+    "MALABAR": {
+      "അംശം": "Amsom (Revenue Village Division)",
+      "ദേശം": "Desom (Revenue Sub-Division)",
+      "പറമ്പ്": "Paramba (Dry Garden Land)",
+      "ജന്മം": "Janmam (Absolute Freehold Proprietary Right)",
+      "കാനം": "Kanam (Customary Tenure / Mortgage-Lease)",
+      "കുഴിക്കാനം": "Kuzhikanam (Improvement Tenure)",
+      "വെറുംപാട്ടം": "Verumpattam (Simple Lease)",
+      "ആറടി കോൽ": "Six-foot Kole (Historical Linear/Area Unit)"
+    },
+    "TRAVANCORE_COCHIN": {
+      "പകുതി": "Pakuthy (Revenue Village)",
+      "കര": "Kara (Hamlet / Locality)",
+      "മുറി": "Muri (Sub-locality)",
+      "പുരയിടം": "Purayidam (Dry / Garden Land)",
+      "നിലം": "Nilam (Paddy Land / Wetland)",
+      "നഞ്ച": "Nanja (Wet / Irrigated Land)",
+      "പണ്ടാരവക": "Pandaravaka (Government / Sirkar Freehold Tenure)",
+      "വിരുത്തി": "Viruthi (Service Inam Tenure)"
+    }
+  },
+  "red_flag_phrases_ml": {
+    "life_interest": [
+      "ആയുഷ്കാല അവകാശം",
+      "ആയുഷ്കാലം അനുഭവിച്ചും",
+      "ആദായം എടുത്തും",
+      "താമസിച്ചും"
+    ],
+    "wetland_classification": [
+      "നിലം",
+      "നഞ്ച",
+      "തണ്ണീർത്തടം",
+      "കൃഷിനിലം"
+    ],
+    "encumbrance_liens": [
+      "പണയാധാരം",
+      "ഗഹാൻ",
+      "ജപ്തി",
+      "കുടിക്കടം",
+      "റവന്യൂ റിക്കവറി"
+    ]
+  }
+}
